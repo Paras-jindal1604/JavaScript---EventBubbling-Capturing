@@ -21,6 +21,7 @@ By default, JavaScript uses the **bubbling phase** unless specified otherwise.
 
 ---
 
+
 ## 🔥 Event Bubbling (Default)
 
 In event bubbling, the event starts at the **target** element and then propagates **upward** to its ancestors (parent, grandparent, etc.).
@@ -39,5 +40,6 @@ Because of event propagation:
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 Documented by [Paras Jindal](https://github.com/Paras-jindal1604) as part of a structured roadmap to mastering JavaScript and web development fundamentals.
